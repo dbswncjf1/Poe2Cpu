@@ -26,6 +26,11 @@ A utility program designed to automatically manage CPU affinity for Path of Exil
 - .NET Framework installed
 - Administrative privileges required
 
+### Download
+Download the latest version from the [Releases](https://github.com/dbswncjf1/Poe2Cpu/releases) page.
+
+Latest Version: [Download v1.0.0](https://github.com/dbswncjf1/Poe2Cpu/releases/tag/v1.0.0)
+
 ---
 
 <a name="korean"></a>
@@ -52,6 +57,11 @@ Path of Exile 2 (카카오 버전 및 스팀 버전)의 CPU 선호도를 자동�
 - .NET Framework 설치 필요
 - 관리자 권한 필요
 
+### 다운로드
+[릴리즈](https://github.com/dbswncjf1/Poe2Cpu/releases) 페이지에서 최신 버전을 다운로드하세요.
+
+최신 버전: [v1.0.0 다운로드](https://github.com/dbswncjf1/Poe2Cpu/releases/tag/v1.0.0)
+
 ---
 
 <a name="japanese"></a>
@@ -77,3 +87,8 @@ Path of Exile 2（KakaoバージョンとSteamバージョン）のCPUアフィ�
 - Windows OS
 - .NET Frameworkのインストールが必要
 - 管理者権限が必要
+
+### ダウンロード
+[リリース](https://github.com/dbswncjf1/Poe2Cpu/releases)ページから最新バージョンをダウンロードしてください。
+
+最新バージョン: [v1.0.0 ダウンロード](https://github.com/dbswncjf1/Poe2Cpu/releases/tag/v1.0.0)
